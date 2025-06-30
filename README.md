@@ -2,8 +2,8 @@
 ## 🧱 Tech Stack
 ### Language
 <!--Python-->
-<img src="https://img.shields.io/badge/c-#A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <!--C/C++-->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <!--JavaScript-->
